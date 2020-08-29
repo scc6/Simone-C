@@ -1,0 +1,253 @@
+body{
+  background-color: #eedad1;
+  background-image: url(../images/4.png);
+  background-size: cover;
+  color: #333332;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather',serif;
+}
+
+h1{
+  margin-bottom: 1%;
+  margin-top: 0;
+  font-size: 4rem;
+  color: #8d5d9b;
+  font-family: 'Great Vibes',cursive;
+}
+
+h2{
+  color: #8d5d9b;
+  margin:0;
+  text-align: center;
+  font-size: 1.65rem;
+  font-family: 'Montserrat',sans-serif;
+}
+
+h3{
+  font-family: 'Montserrat',sans-serif;
+  font-size: 1.20rem;
+  color: #690812;
+}
+
+p{
+  font-size: 1rem;
+
+}
+
+hr{
+  border: dotted #b762b3 6px;
+  border-bottom: none;
+  width: 5%;
+  margin-bottom: 100px;
+  margin-top: 100px;
+
+}
+
+a{
+  color:#690812 ;
+  font-family: 'Montserrat',sans-serif;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  text-decoration: none;
+
+}
+a:hover{
+  color: #8d5d9b;
+  padding-top: 0.5rem;
+
+}
+
+.contactdetails{
+  line-height: 1.5;
+  color: #690812;
+}
+.profile{
+  display: inline-block;
+  text-align: left
+}
+
+.Hithere{
+  padding-top: 0.5rem;
+  padding-bottom: 1.5rem;
+
+}
+
+.Myskills{
+  padding-top:0.5rem;
+
+}
+
+.Hi{
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  padding-bottom: 2.5rem;
+
+}
+
+.skill1{
+  width: 70%;
+  margin: auto;
+}
+
+.Webdesign{
+  width: 42%;
+  margin: auto;
+}
+.Heading2{
+  text-align: center;
+}
+
+.Photography{
+  width: 70%;
+  margin: auto;
+}
+.Intouch{
+  padding: 20px;
+}
+
+.message{
+  padding-bottom: 20px;
+
+}
+
+
+.skillsrow1{
+  width: 50%;
+  text-align: left;
+  margin:70px auto 70px auto;
+  line-height: 1.5;
+  display: inline-block;
+
+}
+
+.skillsrow2{
+  width: 50%;
+  text-align: left;
+  margin:70px auto 70px auto;
+  line-height: 1.5;
+  display: inline-block;
+
+  }
+
+.skillsrow3{
+  width: 50%;
+  text-align: left;
+  margin:70px auto 70px auto;
+  line-height: 1.5;
+  display: inline-block;
+
+  }
+
+
+.Top-Container{
+  color:#8675a9;
+  position: relative;
+  padding:400px;
+}
+
+.Middle-Container{
+
+}
+
+.bottom-container{
+  background: #d3a3ac;
+  padding-bottom: 20px;
+  padding-top: 40px;
+
+
+}
+
+.contact-me{
+  margin: 30px auto 40px;
+  padding-top: 20px;
+
+}
+.CR{
+  color: #8d5d9b;
+  font-size: 0.65rem;
+  padding-top: 0.6rem;
+}
+
+.design{
+  text-decoration: underline;
+}
+
+.pp{
+  width: 15%;
+  margin-left: 42%
+
+
+}
+
+.Develop{
+  width: 25%;
+  margin-right: 15px;
+  float: left;
+
+}
+
+.Design{
+  width: 25%;
+  float: right;
+
+}
+
+.Camera{
+  width: 25%;
+  margin-right: 18px;
+  float: left;
+
+}
+
+.topleft{
+  position: absolute;
+  left: 250px;
+  top:100px;
+  width: 28%;
+}
+
+.bottomright{
+  width: 28%;
+  position: absolute;
+  right: 250px;
+  bottom: 0;
+}
+.contactdetails{
+  display: inline-block;
+  padding-left: 0.5rem;
+  padding-top: 0.5rem;
+  text-align: left;
+}
+
+
+.btn {
+  background: -webkit-gradient(top, #71143A, #CC91C9);
+  background-image: -webkit-linear-gradient(top, #71143A, #CC91C9);
+  background-image: -moz-linear-gradient(top, #71143A, #CC91C9);
+  background-image: -ms-linear-gradient(top, #71143A, #CC91C9);
+  background-image: -o-linear-gradient(top, #71143A, #CC91C9);
+  background-image: linear-gradient(to bottom, #71143A, #CC91C9);
+  -webkit-border-radius: 14;
+  -moz-border-radius: 14;
+  border-radius: 14px;
+  font-family: 'Montserrat',sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  border: solid #b762b3 2px;
+  text-decoration: none;
+
+}
+
+.btn:hover {
+  background: -webkit-gradient(top, #d3a3ac, #610B12);
+  background-image: -webkit-linear-gradient(top,#d3a3ac, #610B12);
+  background-image: -moz-linear-gradient(top, #d3a3ac, #610B12);
+  background-image: -ms-linear-gradient(top,#d3a3ac, #610B12);
+  background-image: -o-linear-gradient(top,#d3a3ac, #610B12);
+  background-image: linear-gradient(to bottom,#d3a3ac, #610B12);
+  text-decoration: none;
+  color: #ffffff;
+}
